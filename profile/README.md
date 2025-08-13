@@ -32,10 +32,6 @@ The software supports a wide variety of video formats, provides options for addi
 
 ---
 
-![Free Video Editor Interface](https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0NDkwODMyNjM4ODQ2MzEy/best-free-video-editing-software-programs.jpg)
-
----
-
 ## ⚙️ Key Features
 
 - User-friendly interface with drag-and-drop functionality  
